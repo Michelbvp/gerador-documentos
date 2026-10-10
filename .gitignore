@@ -1,0 +1,6 @@
+# Ignorar ambiente virtual e caches do Python
+venv/
+__pycache__/
+
+# Ignorar chaves, senhas e variáveis de ambiente (Segurança da Informação)
+.env
